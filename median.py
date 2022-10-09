@@ -15,4 +15,3 @@ while True:
     else:
         break
 print(median)
-""""test"""
